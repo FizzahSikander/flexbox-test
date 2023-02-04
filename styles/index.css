@@ -109,12 +109,10 @@
     display: flex;
     flex-wrap: wrap;
 }
-
-.page-features {
+.page-features{
     display: flex;
     flex-wrap: wrap;
 }
-
 .circle {
     width: 50px;
     height: 50px;
@@ -123,7 +121,6 @@
     margin-left: 20px;
     margin-top: 20px;
 }
-
 .container_seven,
 .container_eight,
 .container_nine,
@@ -134,11 +131,10 @@
     margin-left: 20px;
     margin-top: 20px;
 }
-
 .container_seven {
     display: flex;
     flex-wrap: wrap;
-    background-color: #03071E;
+    background-color:#03071E ;
     justify-content: flex-start;
 }
 
@@ -154,15 +150,15 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items:flex-start;
 }
 
 .container_ten {
     background-color: #6A040F;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
+    flex-wrap: wrap;    
+    justify-content:space-between;
+    align-items:center;
 }
 
 .container_eleven {
